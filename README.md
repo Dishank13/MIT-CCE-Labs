@@ -1,26 +1,37 @@
-# CCE-Labs
+# 📚 MIT-CCE-Labs
 
-This repository contains the complete collection of laboratory codes developed as part of the coursework for the Bachelor of Technology in Computer and Communication Engineering at Manipal Institute of Technology, Manipal. The projects and assignments documented here correspond to the academic curriculum for the batch graduating in 2027.
+This repository contains **personal implementations** for the  
+**Computer & Communication Engineering (CCE)** curriculum at **Manipal Institute of Technology (MIT)**.
+
+The repository is organized **semester-wise and subject-wise**, serving as a structured archive for
+learning, practice, and revision across core laboratory courses.
 
 ---
 
-## Quick Access Navigation
+## 🧠 Purpose
 
-### Sem III
-- [DS_Lab](./Sem%20III/DS_Lab)
-- [OOPS_Lab](./Sem%20III/OOPS_Lab)
+- 📌 Maintain a clean and organized archive of CCE laboratory work
+- 🛠️ Implement solutions independently for learning and understanding
+- 📖 Use official lab manuals as reference material
+- 🚀 Track academic and technical progress across semesters
 
-### Sem IV
-- [DBMS_Lab](./Sem%20IV/DBMS_Lab)
-- [OSLab](./Sem%20IV/OSLab)
-
-### Sem V
-- [Embedded_Systems](./Sem%20V/Embedded%20Systems)
-- [Information_Security](./Sem%20V/Information%20Security)
-
-### Sem VI
-- [Mobile_Application_Development](./Sem%20VI/Mobile%20Application%20Development)
-- [Network_Programming](./Sem%20VI/Network_Programming)
 ---
 
+## 🗂️ Repository Structure
+
+```text
+Sem III/
+ ├── Data Structures
+ └── Object Oriented Programming
+
+Sem IV/
+ ├── Operating Systems
+ └── Database Management Systems
+
+Sem V/
+ ├── Embedded Systems Design
+ └── Information Security
+
+Sem VI/
+ └── Network Programming
 
